@@ -1,0 +1,15 @@
+C:\Users\yasingoktepe\Desktop\Projects\MaskTracking\Workaround\bin\Debug\net5.0\Workaround.exe
+C:\Users\yasingoktepe\Desktop\Projects\MaskTracking\Workaround\bin\Debug\net5.0\Workaround.deps.json
+C:\Users\yasingoktepe\Desktop\Projects\MaskTracking\Workaround\bin\Debug\net5.0\Workaround.runtimeconfig.json
+C:\Users\yasingoktepe\Desktop\Projects\MaskTracking\Workaround\bin\Debug\net5.0\Workaround.runtimeconfig.dev.json
+C:\Users\yasingoktepe\Desktop\Projects\MaskTracking\Workaround\bin\Debug\net5.0\Workaround.dll
+C:\Users\yasingoktepe\Desktop\Projects\MaskTracking\Workaround\bin\Debug\net5.0\Workaround.pdb
+C:\Users\yasingoktepe\Desktop\Projects\MaskTracking\Workaround\obj\Debug\net5.0\Workaround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasingoktepe\Desktop\Projects\MaskTracking\Workaround\obj\Debug\net5.0\Workaround.AssemblyInfoInputs.cache
+C:\Users\yasingoktepe\Desktop\Projects\MaskTracking\Workaround\obj\Debug\net5.0\Workaround.AssemblyInfo.cs
+C:\Users\yasingoktepe\Desktop\Projects\MaskTracking\Workaround\obj\Debug\net5.0\Workaround.csproj.CoreCompileInputs.cache
+C:\Users\yasingoktepe\Desktop\Projects\MaskTracking\Workaround\obj\Debug\net5.0\Workaround.dll
+C:\Users\yasingoktepe\Desktop\Projects\MaskTracking\Workaround\obj\Debug\net5.0\refint\Workaround.dll
+C:\Users\yasingoktepe\Desktop\Projects\MaskTracking\Workaround\obj\Debug\net5.0\Workaround.pdb
+C:\Users\yasingoktepe\Desktop\Projects\MaskTracking\Workaround\obj\Debug\net5.0\Workaround.genruntimeconfig.cache
+C:\Users\yasingoktepe\Desktop\Projects\MaskTracking\Workaround\obj\Debug\net5.0\ref\Workaround.dll
